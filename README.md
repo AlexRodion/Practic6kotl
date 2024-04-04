@@ -1,1 +1,1 @@
-# UP0102Rodionov
+# Practic6kotlin
